@@ -59,9 +59,7 @@ const Home = () => {
             velit culpa maiores. Inventore esse illum excepturi dolores est
             natus aliquid maiores sunt omnis deserunt accusantium amet enim eos
             adipisci minima hic, nam provident quo aperiam quasi vel?
-            Dignissimos accusantium aliquid aut vel explicabo voluptatum
-            molestias fugit harum reprehenderit incidunt. Quis cumque explicabo
-            omnis officiis autem dolorum!
+            
           </Text>
         </Stack>
       </Container>
